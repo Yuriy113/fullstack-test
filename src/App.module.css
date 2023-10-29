@@ -1,0 +1,18 @@
+.user_card {
+  width: 357px;
+  height: 314px;
+  padding: 24px;
+  border-radius: 16px;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 1120px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+/*   border-radius: 16px;
+  box-shadow: 0px 20px 20px 0px rgba(0, 0, 0, 0.1); */
